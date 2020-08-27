@@ -7,7 +7,6 @@ public class Game extends JFrame {
 
     private Board board;
 
-    // bug- can't set rows and cols to different numbers
     public static final int ROWS = 8;
     public static final int COLS = 8;
     public static final int NUM_MINES = 10;
